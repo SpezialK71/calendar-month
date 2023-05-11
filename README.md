@@ -20,4 +20,5 @@ given month for years 1800 through 2099...
 ...and an algorithm for appropriately displaying  
 the calendar month, given the day of the week that  
 the first day falls on, and the number of days in  
-the month. 
+the month.  
+
