@@ -8,8 +8,16 @@ given month between January 1800 and December
 MAY 2012  
 Sun Mon Tue Wed Thu Fri Sat  
 ------------1----2----3---4--5-  
--6----7----8----9---10--11--12-  
+-6----7----8----9---10--11--12  
 13--14---15---16---17-18--19  
 20--21---22---23---24-25--26  
 27--28---29---30---31  
 
+
+Need an algorithm for computing the first day of a  
+given month for years 1800 through 2099...  
+
+...and an algorithm for appropriately displaying  
+the calendar month, given the day of the week that  
+the first day falls on, and the number of days in  
+the month. 
