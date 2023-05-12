@@ -41,6 +41,10 @@ integer values.
 
 ### ALGORITHMIC APPROACH  
 
-    1. determine day of week a given date falls on.
-    2. determine how many days are in a given month.
+    a) determine day of week a given date falls on.
+        1. Let *century_digits* be equal to the first two digits of the year.
+        2. Let year_digits be equal to the last two digits of the year.
+        3. Let __value__ be equal to __year_digits__ + floor(__year_digits__/4)
+        
+    b) determine how many days are in a given month.
     
