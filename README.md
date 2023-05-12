@@ -40,3 +40,7 @@ integer values.
 
 
 ### ALGORITHMIC APPROACH  
+
+    1. determine day of week a given date falls on.
+    2. determine how many days are in a given month.
+    
